@@ -1,9 +1,0 @@
-C:\Users\antoi\OneDrive - etu.unistra.fr\Etude\IUT\Illkirch\S2\SAEA21\usercontrol\BoutonArrondi\bin\Debug\BoutonArrondi.dll
-C:\Users\antoi\OneDrive - etu.unistra.fr\Etude\IUT\Illkirch\S2\SAEA21\usercontrol\BoutonArrondi\bin\Debug\BoutonArrondi.pdb
-C:\Users\antoi\OneDrive - etu.unistra.fr\Etude\IUT\Illkirch\S2\SAEA21\usercontrol\BoutonArrondi\obj\Debug\BoutonArrondi.csproj.AssemblyReference.cache
-C:\Users\antoi\OneDrive - etu.unistra.fr\Etude\IUT\Illkirch\S2\SAEA21\usercontrol\BoutonArrondi\obj\Debug\BoutonArrondi.Properties.Resources.resources
-C:\Users\antoi\OneDrive - etu.unistra.fr\Etude\IUT\Illkirch\S2\SAEA21\usercontrol\BoutonArrondi\obj\Debug\BoutonArrondi.UserControl1.resources
-C:\Users\antoi\OneDrive - etu.unistra.fr\Etude\IUT\Illkirch\S2\SAEA21\usercontrol\BoutonArrondi\obj\Debug\BoutonArrondi.csproj.GenerateResource.cache
-C:\Users\antoi\OneDrive - etu.unistra.fr\Etude\IUT\Illkirch\S2\SAEA21\usercontrol\BoutonArrondi\obj\Debug\BoutonArrondi.csproj.CoreCompileInputs.cache
-C:\Users\antoi\OneDrive - etu.unistra.fr\Etude\IUT\Illkirch\S2\SAEA21\usercontrol\BoutonArrondi\obj\Debug\BoutonArrondi.dll
-C:\Users\antoi\OneDrive - etu.unistra.fr\Etude\IUT\Illkirch\S2\SAEA21\usercontrol\BoutonArrondi\obj\Debug\BoutonArrondi.pdb
