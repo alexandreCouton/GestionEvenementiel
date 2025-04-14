@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F3420F82-EDF7-44BA-9D9B-BA4926FB3886}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>AppEvenement</RootNamespace>
+    <AssemblyName>AppEvenement</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="parcours11.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="parcours11.Designer.cs">
+      <DependentUpon>parcours11.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UCAjoutDepense.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCAjoutDepense.Designer.cs">
+      <DependentUpon>UCAjoutDepense.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UCArgent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCArgent.Designer.cs">
+      <DependentUpon>UCArgent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UCCreeUnNouveauParticipant.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCCreeUnNouveauParticipant.Designer.cs">
+      <DependentUpon>UCCreeUnNouveauParticipant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UCDepense.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCDepense.Designer.cs">
+      <DependentUpon>UCDepense.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UCCarteInvite.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCCarteInvite.Designer.cs">
+      <DependentUpon>UCCarteInvite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UCComboBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCComboBox.Designer.cs">
+      <DependentUpon>UCComboBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UCBilan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCBilan.Designer.cs">
+      <DependentUpon>UCBilan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UCLancerInvitation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCLancerInvitation.Designer.cs">
+      <DependentUpon>UCLancerInvitation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UCNewEvent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCNewEvent.Designer.cs">
+      <DependentUpon>UCNewEvent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UCParticipants.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCParticipants.Designer.cs">
+      <DependentUpon>UCParticipants.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="parcours11.resx">
+      <DependentUpon>parcours11.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="UCAjoutDepense.resx">
+      <DependentUpon>UCAjoutDepense.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCArgent.resx">
+      <DependentUpon>UCArgent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCCreeUnNouveauParticipant.resx">
+      <DependentUpon>UCCreeUnNouveauParticipant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCDepense.resx">
+      <DependentUpon>UCDepense.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCCarteInvite.resx">
+      <DependentUpon>UCCarteInvite.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCComboBox.resx">
+      <DependentUpon>UCComboBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCBilan.resx">
+      <DependentUpon>UCBilan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCLancerInvitation.resx">
+      <DependentUpon>UCLancerInvitation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCNewEvent.resx">
+      <DependentUpon>UCNewEvent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCParticipants.resx">
+      <DependentUpon>UCParticipants.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boutonAnnuler.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boutonValider.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CeQueJaiDepense.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addUser.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CeQueJeDemande.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eventBlanc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\go-back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\homeBlanc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\homeblanc2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-money-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-user-94.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logoROND.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

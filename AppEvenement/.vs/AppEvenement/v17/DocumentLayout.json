@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\antoi\\OneDrive - etu.unistra.fr\\Etude\\IUT\\Illkirch\\S2\\SAEA21\\AppEvenement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3420F82-EDF7-44BA-9D9B-BA4926FB3886}|AppEvenement.csproj|c:\\users\\antoi\\onedrive - etu.unistra.fr\\etude\\iut\\illkirch\\s2\\saea21\\appevenement\\ucdepense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3420F82-EDF7-44BA-9D9B-BA4926FB3886}|AppEvenement.csproj|solutionrelative:ucdepense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3420F82-EDF7-44BA-9D9B-BA4926FB3886}|AppEvenement.csproj|C:\\Users\\antoi\\OneDrive - etu.unistra.fr\\Etude\\IUT\\Illkirch\\S2\\SAEA21\\AppEvenement\\ucargent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3420F82-EDF7-44BA-9D9B-BA4926FB3886}|AppEvenement.csproj|solutionrelative:ucargent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3420F82-EDF7-44BA-9D9B-BA4926FB3886}|AppEvenement.csproj|C:\\Users\\antoi\\OneDrive - etu.unistra.fr\\Etude\\IUT\\Illkirch\\S2\\SAEA21\\AppEvenement\\ucparticipants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3420F82-EDF7-44BA-9D9B-BA4926FB3886}|AppEvenement.csproj|solutionrelative:ucparticipants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3420F82-EDF7-44BA-9D9B-BA4926FB3886}|AppEvenement.csproj|C:\\Users\\antoi\\OneDrive - etu.unistra.fr\\Etude\\IUT\\Illkirch\\S2\\SAEA21\\AppEvenement\\ucdepense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3420F82-EDF7-44BA-9D9B-BA4926FB3886}|AppEvenement.csproj|solutionrelative:ucdepense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3420F82-EDF7-44BA-9D9B-BA4926FB3886}|AppEvenement.csproj|C:\\Users\\antoi\\OneDrive - etu.unistra.fr\\Etude\\IUT\\Illkirch\\S2\\SAEA21\\AppEvenement\\ucparticipants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3420F82-EDF7-44BA-9D9B-BA4926FB3886}|AppEvenement.csproj|solutionrelative:ucparticipants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3420F82-EDF7-44BA-9D9B-BA4926FB3886}|AppEvenement.csproj|C:\\Users\\antoi\\OneDrive - etu.unistra.fr\\Etude\\IUT\\Illkirch\\S2\\SAEA21\\AppEvenement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3420F82-EDF7-44BA-9D9B-BA4926FB3886}|AppEvenement.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3420F82-EDF7-44BA-9D9B-BA4926FB3886}|AppEvenement.csproj|C:\\Users\\antoi\\OneDrive - etu.unistra.fr\\Etude\\IUT\\Illkirch\\S2\\SAEA21\\AppEvenement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3420F82-EDF7-44BA-9D9B-BA4926FB3886}|AppEvenement.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UCDepense.cs",
+              "DocumentMoniker": "C:\\Users\\antoi\\OneDrive - etu.unistra.fr\\Etude\\IUT\\Illkirch\\S2\\SAEA21\\AppEvenement\\UCDepense.cs",
+              "RelativeDocumentMoniker": "UCDepense.cs",
+              "ToolTip": "C:\\Users\\antoi\\OneDrive - etu.unistra.fr\\Etude\\IUT\\Illkirch\\S2\\SAEA21\\AppEvenement\\UCDepense.cs",
+              "RelativeToolTip": "UCDepense.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:20:19.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UCParticipants.cs",
+              "DocumentMoniker": "C:\\Users\\antoi\\OneDrive - etu.unistra.fr\\Etude\\IUT\\Illkirch\\S2\\SAEA21\\AppEvenement\\UCParticipants.cs",
+              "RelativeDocumentMoniker": "UCParticipants.cs",
+              "ToolTip": "C:\\Users\\antoi\\OneDrive - etu.unistra.fr\\Etude\\IUT\\Illkirch\\S2\\SAEA21\\AppEvenement\\UCParticipants.cs",
+              "RelativeToolTip": "UCParticipants.cs",
+              "ViewState": "AQIAAMYAAAAAAAAAAAAIwK0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:19:35.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UCArgent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\antoi\\OneDrive - etu.unistra.fr\\Etude\\IUT\\Illkirch\\S2\\SAEA21\\AppEvenement\\UCArgent.cs",
+              "RelativeDocumentMoniker": "UCArgent.cs",
+              "ToolTip": "C:\\Users\\alexc\\OneDrive - etu.unistra.fr\\dexieme_semestre\\SAEA21\\AppEvenement\\UCArgent.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\alexc\\OneDrive - etu.unistra.fr\\dexieme_semestre\\SAEA21\\AppEvenement\\UCArgent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:19:19.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UCParticipants.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\antoi\\OneDrive - etu.unistra.fr\\Etude\\IUT\\Illkirch\\S2\\SAEA21\\AppEvenement\\UCParticipants.cs",
+              "RelativeDocumentMoniker": "UCParticipants.cs",
+              "ToolTip": "C:\\Users\\EnoBe\\OneDrive - etu.unistra.fr\\SAEA21 - Fichiers de Antoine Chaumet\\AppEvenement\\UCParticipants.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\EnoBe\\OneDrive - etu.unistra.fr\\SAEA21 - Fichiers de Antoine Chaumet\\AppEvenement\\UCParticipants.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:19:10.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UCDepense.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\antoi\\OneDrive - etu.unistra.fr\\Etude\\IUT\\Illkirch\\S2\\SAEA21\\AppEvenement\\UCDepense.cs",
+              "RelativeDocumentMoniker": "UCDepense.cs",
+              "ToolTip": "C:\\Users\\alexc\\OneDrive - etu.unistra.fr\\dexieme_semestre\\SAEA21\\AppEvenement\\UCDepense.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\alexc\\OneDrive - etu.unistra.fr\\dexieme_semestre\\SAEA21\\AppEvenement\\UCDepense.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:18:11.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\antoi\\OneDrive - etu.unistra.fr\\Etude\\IUT\\Illkirch\\S2\\SAEA21\\AppEvenement\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\antoi\\OneDrive - etu.unistra.fr\\Etude\\IUT\\Illkirch\\S2\\SAEA21\\AppEvenement\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:12:27.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\antoi\\OneDrive - etu.unistra.fr\\Etude\\IUT\\Illkirch\\S2\\SAEA21\\AppEvenement\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\EnoBe\\OneDrive - etu.unistra.fr\\SAEA21 - Fichiers de Antoine Chaumet\\AppEvenement\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\EnoBe\\OneDrive - etu.unistra.fr\\SAEA21 - Fichiers de Antoine Chaumet\\AppEvenement\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:11:35.367Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

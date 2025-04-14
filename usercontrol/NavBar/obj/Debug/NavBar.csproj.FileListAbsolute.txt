@@ -1,0 +1,9 @@
+C:\Users\antoi\OneDrive - etu.unistra.fr\Etude\IUT\Illkirch\S2\SAEA21\usercontrol\NavBar\bin\Debug\NavBar.dll
+C:\Users\antoi\OneDrive - etu.unistra.fr\Etude\IUT\Illkirch\S2\SAEA21\usercontrol\NavBar\bin\Debug\NavBar.pdb
+C:\Users\antoi\OneDrive - etu.unistra.fr\Etude\IUT\Illkirch\S2\SAEA21\usercontrol\NavBar\obj\Debug\NavBar.csproj.AssemblyReference.cache
+C:\Users\antoi\OneDrive - etu.unistra.fr\Etude\IUT\Illkirch\S2\SAEA21\usercontrol\NavBar\obj\Debug\NavBar.Properties.Resources.resources
+C:\Users\antoi\OneDrive - etu.unistra.fr\Etude\IUT\Illkirch\S2\SAEA21\usercontrol\NavBar\obj\Debug\NavBar.UserControl1.resources
+C:\Users\antoi\OneDrive - etu.unistra.fr\Etude\IUT\Illkirch\S2\SAEA21\usercontrol\NavBar\obj\Debug\NavBar.csproj.GenerateResource.cache
+C:\Users\antoi\OneDrive - etu.unistra.fr\Etude\IUT\Illkirch\S2\SAEA21\usercontrol\NavBar\obj\Debug\NavBar.csproj.CoreCompileInputs.cache
+C:\Users\antoi\OneDrive - etu.unistra.fr\Etude\IUT\Illkirch\S2\SAEA21\usercontrol\NavBar\obj\Debug\NavBar.dll
+C:\Users\antoi\OneDrive - etu.unistra.fr\Etude\IUT\Illkirch\S2\SAEA21\usercontrol\NavBar\obj\Debug\NavBar.pdb

@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexc\\OneDrive - etu.unistra.fr\\dexieme_semestre\\SAEA21\\AppEvenement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3420F82-EDF7-44BA-9D9B-BA4926FB3886}|AppEvenement.csproj|c:\\users\\alexc\\onedrive - etu.unistra.fr\\dexieme_semestre\\saea21\\appevenement\\ucajoutnvutilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3420F82-EDF7-44BA-9D9B-BA4926FB3886}|AppEvenement.csproj|solutionrelative:ucajoutnvutilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3420F82-EDF7-44BA-9D9B-BA4926FB3886}|AppEvenement.csproj|C:\\Users\\alexc\\OneDrive - etu.unistra.fr\\dexieme_semestre\\SAEA21\\AppEvenement\\ucajoutnvutilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3420F82-EDF7-44BA-9D9B-BA4926FB3886}|AppEvenement.csproj|solutionrelative:ucajoutnvutilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3420F82-EDF7-44BA-9D9B-BA4926FB3886}|AppEvenement.csproj|C:\\Users\\alexc\\OneDrive - etu.unistra.fr\\dexieme_semestre\\SAEA21\\AppEvenement\\ucparticipants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3420F82-EDF7-44BA-9D9B-BA4926FB3886}|AppEvenement.csproj|solutionrelative:ucparticipants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3420F82-EDF7-44BA-9D9B-BA4926FB3886}|AppEvenement.csproj|C:\\Users\\alexc\\OneDrive - etu.unistra.fr\\dexieme_semestre\\SAEA21\\AppEvenement\\ucparticipants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3420F82-EDF7-44BA-9D9B-BA4926FB3886}|AppEvenement.csproj|solutionrelative:ucparticipants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UCAjoutNVUtilisateur.cs",
+              "DocumentMoniker": "C:\\Users\\alexc\\OneDrive - etu.unistra.fr\\dexieme_semestre\\SAEA21\\AppEvenement\\UCAjoutNVUtilisateur.cs",
+              "RelativeDocumentMoniker": "UCAjoutNVUtilisateur.cs",
+              "ToolTip": "C:\\Users\\alexc\\OneDrive - etu.unistra.fr\\dexieme_semestre\\SAEA21\\AppEvenement\\UCAjoutNVUtilisateur.cs",
+              "RelativeToolTip": "UCAjoutNVUtilisateur.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:29:23.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UCAjoutNVUtilisateur.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alexc\\OneDrive - etu.unistra.fr\\dexieme_semestre\\SAEA21\\AppEvenement\\UCAjoutNVUtilisateur.cs",
+              "RelativeDocumentMoniker": "UCAjoutNVUtilisateur.cs",
+              "ToolTip": "C:\\Users\\alexc\\OneDrive - etu.unistra.fr\\dexieme_semestre\\SAEA21\\AppEvenement\\UCAjoutNVUtilisateur.cs [Design]",
+              "RelativeToolTip": "UCAjoutNVUtilisateur.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:15:45.77Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UCParticipants.cs",
+              "DocumentMoniker": "C:\\Users\\alexc\\OneDrive - etu.unistra.fr\\dexieme_semestre\\SAEA21\\AppEvenement\\UCParticipants.cs",
+              "RelativeDocumentMoniker": "UCParticipants.cs",
+              "ToolTip": "C:\\Users\\alexc\\OneDrive - etu.unistra.fr\\dexieme_semestre\\SAEA21\\AppEvenement\\UCParticipants.cs",
+              "RelativeToolTip": "UCParticipants.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:14:53.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UCParticipants.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alexc\\OneDrive - etu.unistra.fr\\dexieme_semestre\\SAEA21\\AppEvenement\\UCParticipants.cs",
+              "RelativeDocumentMoniker": "UCParticipants.cs",
+              "ToolTip": "C:\\Users\\alexc\\OneDrive - etu.unistra.fr\\dexieme_semestre\\SAEA21\\AppEvenement\\UCParticipants.cs [Design]",
+              "RelativeToolTip": "UCParticipants.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:14:50.95Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
